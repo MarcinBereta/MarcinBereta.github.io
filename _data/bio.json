@@ -47,7 +47,9 @@
                 "Python",
                 "Haskell",
                 "HTML",
-                "CSS"
+                "CSS",
+                "PostgresQl",
+                "Drizzle"
             ]
         },
         {
@@ -61,7 +63,7 @@
             "area": "Computer Science",
             "studyType": "B.S.",
             "startDate": "2021-10-01",
-            "endDate": "Present",
+            "endDate": "2025-02-04",
             "courses": [
                 "Algebra",
                 "Mathematical Analysis 1",
@@ -100,7 +102,17 @@
                 "Cryptography",
                 "Computer graphics",
                 "Object-oriented technologies",
-                "UX of web applications"
+                "UX of web applications",
+                "Embeebed systems",
+                "Computer architecture",
+                "Distributed systems",
+                "Software engineering",
+                "Technology of the Internet",
+                "Intoduction to security engineering",
+                "Cloud computing",
+                "CAD/CAE systems",
+                "Recommnendations system",
+                "Programming of autonomus mobile robots"
             ]
         }
     ]
